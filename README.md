@@ -1,1 +1,4 @@
 # Workspace
+
+## Strategy Pattern
+
